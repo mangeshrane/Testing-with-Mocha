@@ -1,0 +1,21 @@
+{
+  "name": "testing_with_mocha",
+  "version": "1.0.0",
+  "description": "Learning mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mocha",
+    "test",
+    "e2e",
+    "testing"
+  ],
+  "author": "mrane",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
